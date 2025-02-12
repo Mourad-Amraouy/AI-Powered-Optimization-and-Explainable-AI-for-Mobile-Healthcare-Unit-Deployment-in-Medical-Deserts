@@ -64,10 +64,6 @@ streamlit run app.py
 - **⚖️ Multi-Objective Optimization**: Balance cost, demand coverage, and equity.
 - **🔗 Integrate with Public Health APIs**: Fetch real-time demographic and health data.
 
-## Contributors 🧑‍💻
-
-- **Your Name** - [LinkedIn](#) | [GitHub](#)
-
 ## License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
