@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Streamlit dashboard:
 ```sh
-streamlit run app.py
+streamlit run colab_kernel_launcherV0.py
 ```
 
 ## Usage 🧑‍💻
