@@ -1,0 +1,2 @@
+# AI-Powered-Optimization-and-Explainable-AI-for-Mobile-Healthcare-Unit-Deployment-in-Medical-Deserts
+This project focuses on developing an AI-driven decision support system for the optimal placement and resource allocation of mobile healthcare units in underserved regions (medical deserts). The system integrates demand prediction, facility location optimization, and staff allocation, ensuring model interpretability using   (XAI) techniques.
